@@ -1,0 +1,16 @@
+{
+  "name": "Jellit - Arquitetura Java e Microsserviços",
+  "short_name": "Jellit",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#1ea7d8",
+  "icons": [
+    {
+      "src": "assets/img/jellit-logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
