@@ -91,7 +91,7 @@ git init
 git add .
 git commit -m "Publica site Jellit"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/jellit-site.git
+git remote add origin https://github.com/jellitBarack/jellit-site.git
 git push -u origin main
 ```
 
@@ -107,7 +107,7 @@ git push -u origin main
 A URL terá este formato:
 
 ```text
-https://SEU-USUARIO.github.io/jellit-site/
+https://jellitBarack.github.io/jellit-site/
 ```
 
 ## Ajustes obrigatórios antes de publicar
